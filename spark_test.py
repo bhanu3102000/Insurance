@@ -1,4 +1,4 @@
-"""Small standalone Spark join job with time to inspect the Spark UI."""
+"""Small session standalone Spark join job with time to inspect the Spark UI."""
 
 import argparse
 import time
